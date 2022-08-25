@@ -1,0 +1,6 @@
+digraph "Network Diagram" {
+	graph [fontcolor="#2D3436" fontname="Sans-Serif" fontsize=15 label="Network Diagram" nodesep=0.60 pad=2.0 rankdir=LR ranksep=0.75 splines=ortho]
+	node [fixedsize=true fontcolor="#2D3436" fontname="Sans-Serif" fontsize=13 height=1.4 imagescale=true labelloc=b shape=box style=rounded width=1.4]
+	edge [color="#7B8894"]
+	"8812b72a824b4b619cc093ee2437260b" [label=web height=1.9 image="/home/ec2-user/DaC/venv/lib64/python3.7/site-packages/resources/aws/compute/ec2.png" shape=none]
+}
